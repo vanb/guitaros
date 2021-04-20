@@ -16,4 +16,7 @@ These are patches we've created for use with the songs taught by Josh Skaja and 
 
 ### Master Blaster - Stevie Wonder
 
+Hear the patch - https://youtu.be/FaH9KgL4AEU
+Get the patch - link to raw file
+
 ### Message In A Bottle - The Police
