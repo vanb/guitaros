@@ -58,3 +58,13 @@ is provided by the Retro Reel modulation effect which emulates the sound of a re
 
 
 ### Message In A Bottle - The Police
+
+## Miscelanious Patches
+
+### The Fender Flyboard
+
+![Fender Flyboard HX Stomp Visualization](./images/fender-flyboard-patch-viz.png)
+
+This is an all-purpose, play most gigs, patch. Includes two distortion blocks for gain-staging. 
+
+[Get the patch](https://raw.githubusercontent.com/vanb/guitaros/master/tones/fender-flyboard.hlx)
