@@ -18,6 +18,8 @@ Made this patch based on things we read on the web about Joe Perry's tone. He li
 
 ### Beat It - Michael Jackson
 
+Used the [Fender Flyboard](#fenderFlyboard) for this one.
+
 ### Brain Stew - Green Day
 
 ![Brain Stew HX Stomp Visualization](./images/brain-stew-patch-viz.png)
@@ -61,7 +63,7 @@ is provided by the Retro Reel modulation effect which emulates the sound of a re
 
 ## Miscelanious Patches
 
-### The Fender Flyboard
+### <a name="fenderFlyboard"></a> The Fender Flyboard
 
 ![Fender Flyboard HX Stomp Visualization](./images/fender-flyboard-patch-viz.png)
 
