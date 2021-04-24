@@ -41,7 +41,7 @@ The Day Tripper patch was inspired by an amazing Slack thread with our resident 
 
 [Hear the Patch](https://youtu.be/BnlIHUU-wmg) (opens a YouTube Video)
 
-[Geth the Patch](https://raw.githubusercontent.com/vanb/guitaros/master/tones/day-tripper.hlx)
+[Get the Patch](https://raw.githubusercontent.com/vanb/guitaros/master/tones/day-tripper.hlx)
 
 ### Master Blaster - Stevie Wonder
 
